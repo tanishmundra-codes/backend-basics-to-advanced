@@ -1,0 +1,16 @@
+{
+  "name": "01-firstapp",
+  "version": "1.0.0",
+  "description": "first app with deployment",
+  "license": "ISC",
+  "author": "Tanish Mundra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
