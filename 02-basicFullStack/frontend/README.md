@@ -1,0 +1,1 @@
+learned about axios, cros and proxy to connect frontend from backend
