@@ -34,7 +34,7 @@ Welcome to my engineering journal where I document daily progress, weekly reflec
 - [Youtube video](https://www.youtube.com/watch?v=VbGl3msgce8&t=5s)
 
 
-## 31-07-25
+## 1-08-25
 
 **What I Did Today :**
 
